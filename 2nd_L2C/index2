@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>nadpis</h1>
+<p>nejaky specialny text</p>
+<p><b>tucne pismo</b>
+<p><i>sikme pismo</i></p>
+<p><strike>preciarknuty text</strike></p>
+<p><q>prida uvodzovky na zaciatok a koniec textu</q></p>
+<ul>
+<li><a href="https://www.google.com">google</a></li>
+<li><a href="http://slovnik.azet.sk/preklad/anglicko-slovensky/?q=about">about</a></li>
+<li><a href="https://sk.wikipedia.org/wiki/Login">login</a></li>
+<li><a href="https://www.websupport.sk/support/565578-Prid%C3%A1vanie-podstr%C3%A1nok-a-zlo%C5%BEiek">podstranka</a></li>
+</ul>
+<p>
+<ul>
+<li><a href="https://www.google.com">menu</a></li>
+<li><a href="https://www.google.com">about</a></li>
+<li><a href="https://www.google.com">follow me</a></li>
+<dd>
+<li><a href="https://www.google.com">follow me</a></li>
+</dd>
