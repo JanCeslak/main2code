@@ -237,4 +237,51 @@ sdfsdfsdf
 sdfsdf
 sdf
 </p>
+<table border="1">
+<thead>
+<tr>
+	<th>Stlpec1</th>
+	<th>Stlpec2</th>
+	<th>Stlpec3</th>
+</tr>
+</thead>
+<tbody>
+	<tr>
+		<td colspan="2">
+			bunka 1 a 2
+		</td>
+		<td rowspan="2">
+			bunka 3 a 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<mark>bunka4</mark>
+		</td>
+		<td>
+			<label><b>CLICK <input type="text"></b></label>
+		</td>
+	</tr>
+	<td>
+		<s>bunky</s>
+	</td>
+	<td>
+		<i>Bunky</i>
+	</td>
+		<td>
+		<button name="button"><mark>STLAC</mark></button>
+	</td>
+</tr>
+	<td>
+		<s>bunky</s>
+	</td>
+	<td>
+		<b>Bunky<button name="button"><mark>GO</mark></button></b>
+	</td>
+		<td>
+		<button name="button"><mark>SKUSIT</mark></button>
+	</td>
+</tr>
+</tfoot>
+</table>
 <footer id="odskrolujdole">
