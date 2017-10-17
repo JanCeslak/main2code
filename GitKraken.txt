@@ -1,0 +1,2 @@
+Nesmiem mat rodeleny disk
+Po vlozeni novych projektov do C:\Users\Jan\Desktop\main2code v GitKraken klikni na push / view change / stage all change
