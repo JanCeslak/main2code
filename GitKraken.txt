@@ -1,2 +1,7 @@
 Nesmiem mat rodeleny disk
 Po vlozeni novych projektov do C:\Users\Jan\Desktop\main2code v GitKraken klikni na push / view change / stage all change
+check th a tr, colspan, rowspan, aside, nav, 
+
+<a href="#odskrolujdole">odskrolujdole></a>
+<footer id="odskrolujdole">
+MUSIA BYT NALINKOVANE, id definuje na co sa naviazat
