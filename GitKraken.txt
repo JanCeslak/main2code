@@ -10,3 +10,7 @@ tr-riadok
 td-hodnota v riadku
 
 SublimeText-premenuj nazov hlavneho foldra.
+
+
+ZMEN LINK FOLDRA NA C NIE D !!!
+VYMAZ A NANOVO NALINKUJ VSETKO
