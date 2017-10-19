@@ -5,3 +5,8 @@ check th a tr, colspan, rowspan, aside, nav,
 <a href="#odskrolujdole">odskrolujdole></a>
 <footer id="odskrolujdole">
 MUSIA BYT NALINKOVANE, id definuje na co sa naviazat
+
+tr-riadok
+td-hodnota v riadku
+
+SublimeText-premenuj nazov hlavneho foldra.
