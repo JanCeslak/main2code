@@ -19,3 +19,6 @@ VYMAZ A NANOVO NALINKUJ VSETKO
 3rd
 
 selektory
+Ctrl / - udelujem koment. 2x to iste, koment vrati
+<div> : oabli vsetko bez ohlaqdu dlzky textu
+<span> : obali len paragraf/text co je v nom
