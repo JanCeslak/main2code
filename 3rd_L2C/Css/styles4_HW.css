@@ -1,0 +1,29 @@
+html,
+body {
+	height: 100%;
+}
+body {
+	background-color: white;
+}
+
+div, h1 {
+	border: 1px solid black;
+	font-weight: bold;
+	background-color: yellow;
+}
+
+span {
+	border: 2px solid blue;
+}
+
+/** {
+border: 1px solid red !important;
+}*/
+
+.heading1 {
+	background-color: red;
+}
+
+.nameandcity {
+	border: 2px solid green
+}
