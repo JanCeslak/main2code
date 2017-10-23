@@ -9,12 +9,6 @@ MUSIA BYT NALINKOVANE, id definuje na co sa naviazat
 tr-riadok
 td-hodnota v riadku
 
-SublimeText-premenuj nazov hlavneho foldra.
-
-
-ZMEN LINK FOLDRA NA C NIE D !!!
-VYMAZ A NANOVO NALINKUJ VSETKO
-
 --
 3rd
 
@@ -23,3 +17,6 @@ class definujem v HTML body, ale parametre mu zadam v CSS
 Ctrl / - udelujem koment. 2x to iste, koment vrati
 <div> : oabli vsetko bez ohlaqdu dlzky textu
 <span> : obali len paragraf/text co je v nom
+<hr> ciara / predelenie oblasti ciarou
+
+urobil som chybu v popise (ciarka) a uy to neslo 

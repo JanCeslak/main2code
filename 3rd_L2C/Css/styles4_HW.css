@@ -21,9 +21,35 @@ border: 1px solid red !important;
 }*/
 
 .heading1 {
+	font-weight: bold;
 	background-color: red;
 }
 
 .nameandcity {
 	border: 2px solid green
+}
+
+.intro {
+	background-color: yellow;
+}
+
+.center {
+	text-align: center;
+	color:red;
+}
+
+.large {
+	text-align: center;
+	color:red;
+	font-size: 30px;
+}
+
+.link {
+	style display: inline-block;
+	text-decoration: none; 
+}
+
+.link:hover {
+background-color: green;
+text-decoration: underline;
 }
