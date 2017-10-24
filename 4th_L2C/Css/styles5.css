@@ -2,18 +2,23 @@ html,
 body {
 	height: 100%;
 }
-body {
-	background-color: pink;
+
+.title-small {
+	background-color: rgba(0, 0, 255, .5);
 }
 
-div {
-	border: 1px solid black;
+.color-opacity50 {
+/*	opacity: .5;*/
 }
 
-span {
-	border: 2px solid blue;
+.holder-box {
+	border: 1px solid red;
+	width: 100px;
+	word-break: break-all;
+	height: 50px;
 }
 
-/** {
-border: 1px solid red !important;
-}*/
+.wrapper-img {
+	max-width: 100%;
+	max-height: 100%;
+}

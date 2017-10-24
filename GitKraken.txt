@@ -20,3 +20,10 @@ Ctrl / - udelujem koment. 2x to iste, koment vrati
 <hr> ciara / predelenie oblasti ciarou
 
 urobil som chybu v popise (ciarka) a uy to neslo 
+
+--
+4th
+
+ak ma zaujima farba zo stranky - F12 / pozri do kodu aka je tam farba / klikni na nu / klikni na farbu na a opis kod farby
+front-end developer
+image vzdy obalujem <div>
