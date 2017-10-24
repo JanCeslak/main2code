@@ -27,3 +27,8 @@ urobil som chybu v popise (ciarka) a uy to neslo
 ak ma zaujima farba zo stranky - F12 / pozri do kodu aka je tam farba / klikni na nu / klikni na farbu na a opis kod farby
 front-end developer
 image vzdy obalujem <div>
+max-width v css styles nam scrooluje adekvatne = nedava pri ZOOM +,- scrool bar dole
+margin : 0 auto = znamena zarovnanie, ale pri scroolovani to optimalizuje (0 je 0px zhora a zdola, auto znamena ze pri scroolovani bude optimalizovat v horizontalnom smere)
+margin VS padding
+oznac co chces hromadne zmenit, CTRL D a kazdym dalsim klikom oznacis rovanku hodnotu
+opacity - priehladnost
