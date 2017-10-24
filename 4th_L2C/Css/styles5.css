@@ -68,13 +68,23 @@ body {
 	color:green;
 }
 
+.holder-box-special{
+	font-size: 0;
+}
+
+.holder-box-first, holder-box-second {
+	display: inline-block;
+}
+
 .holder-box-first {
+	display: inline-block;
 	background-color: pink;
 	height: 100px;
 	width: 100px;
 }
 
 .holder-box-second {
+	display: inline-block;
 	background-color: purple;
 	height: 100px;
 	width: calc(100% - 100px);
