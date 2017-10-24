@@ -67,3 +67,15 @@ body {
 	background-color: yellow;
 	color:green;
 }
+
+.holder-box-first {
+	background-color: pink;
+	height: 100px;
+	width: 100px;
+}
+
+.holder-box-second {
+	background-color: purple;
+	height: 100px;
+	width: calc(100% - 100px);
+}
