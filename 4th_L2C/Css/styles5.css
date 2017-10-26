@@ -72,7 +72,7 @@ body {
 	font-size: 0;
 }
 
-.holder-box-first, holder-box-second {
+.holder-box-first .holder-box-second {
 	display: inline-block;
 }
 

@@ -14,3 +14,81 @@ body {
 	font-weight: bold;
 	font-siye: 24px;
 }
+
+.box-holder {
+	border: 1px solid black;
+}
+.box-wrapper-padding {
+	background-color: green;
+	border: 1px solid yellow;
+}
+
+.box-holder-1{
+	width: 100px;
+	height: 100px;
+}
+
+.box-holder-1 .box-wrapper-padding {
+	padding: 20px;
+	height: 58px;
+}
+
+.box-holder-2 {
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.box-holder-2 .box-wrapper-padding {
+	padding: 20px 30px;
+	height: 56px;
+}
+
+.box-holder-3 {
+	display: inline-block;
+	min-width: 100px;
+	min-height: 100px;
+}
+
+.box-holder-3 .box-wrapper-padding {
+	padding: 20px 30px 40px 50px;
+	height: 38px;
+}
+
+.box-wrapper-margin {
+	background-color: blue;
+	border: 1px solid yellow;
+}
+
+.box-holder-1 .box-wrapper-margin {
+	margin: 20px;
+	height: calc(100% - 40px);
+	width: calc(100% - 40px);
+}
+
+.box-holder-2 .box-wrapper-margin {
+	margin: 20px 30px;
+	width: calc(100% - 60px);
+	height: 56px;
+}
+
+.box-holder-3 .box-wrapper-margin {
+	margin: 20px 30px 40px 50px;
+	min-height: 38px;
+}
+
+img {
+	border-radius: 50%;
+	display: block;
+	max-width: 30%;
+	height: auto;
+	margin: auto;
+}
+
+img:hover {
+	box-shadow: 0 0 50px 30px rgba(255, 192, 203, 1)
+;
+-webkit-transform: scaleX(-1);
+	    transform: scaleX(-1);
+}
+
+
