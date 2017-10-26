@@ -82,6 +82,7 @@ img {
 	max-width: 30%;
 	height: auto;
 	margin: auto;
+	transition: .5s ease;
 }
 
 img:hover {
@@ -90,5 +91,4 @@ img:hover {
 -webkit-transform: scaleX(-1);
 	    transform: scaleX(-1);
 }
-
 
