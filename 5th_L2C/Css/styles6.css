@@ -3,3 +3,14 @@ body {
 	height: 100%;
 }
 
+.main-content{
+	background-color: red;
+	max-width: 900px;
+	min-height: 100%;
+	margin: 0 auto;
+}
+
+.title-big {
+	font-weight: bold;
+	font-siye: 24px;
+}
