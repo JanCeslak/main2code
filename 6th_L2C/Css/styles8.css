@@ -1,0 +1,109 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	word-wrap: break-word;
+	word-break: break-word;
+	background-color: black;
+	color: white;
+}
+
+a {
+	user-select: none;
+	text-decoration: none;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+.main-content {
+	margin: 100px 200px 70px 250px;
+	border: 1px solid white;
+}
+
+.title1 {
+	border: 1px solid white;
+	font-size: 10px;
+	text-align: center;
+	padding: 20px;
+}
+
+.link {
+	color: white;
+	padding: 10px;
+	display: block;
+}
+
+.link:hover {
+	background-color: white;
+	text-decoration: underline;
+	color: black;
+}
+
+.list-float {
+	display: block;
+}
+
+.list-float li {
+	float: left;
+}
+
+.list-color {
+	color: yellow;
+	padding: 10px;
+}
+
+.list-color2 {
+	color: white;
+	padding: 10px;
+}
+
+.list-flex {
+	display: flex;
+	clear: both;
+}
+
+.box p {
+	background-color: white;
+}
+
+.rectangle-1st {
+	background-color: red;
+	color: black;
+	width: calc(100%/3)
+}
+
+.rectangle-2nd {
+	background-color: orange;
+	color: black;
+	width: calc(100%/3)
+}
+
+.rectangle-3rd {
+	background-color: green;
+	color: black;
+	width: calc(100%/3)
+}
+
+.rectangle-4th {
+	background-color: red;
+	color: black;
+	width: calc(100%/3)
+}
+
+.rectangle-5th {
+	background-color: orange;
+	color: black;
+	width: calc(100%/3)
+}
+
+.rectangle-6th {
+	background-color: green;
+	color: black;
+	width: calc(100%/3)
+}

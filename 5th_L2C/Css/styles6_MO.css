@@ -1,0 +1,57 @@
+html,
+body {
+	height: 100%;
+}
+
+h1 {
+	font-size: 30px;
+	text-align: center;
+	background-color: turquoise;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+header {
+	margin: 0;
+	text-align: center;
+}
+
+nav ul li {
+display: inline-block;
+background-color: turquoise;
+list-style-type: none;
+color: black
+padding: 5px 15px;
+}
+
+nav ul li a {
+	color: black;
+}
+
+.description:before {
+	clear: both;
+}
+
+.description:after {
+	clear: both;
+}
+
+.col {
+	background-color: gray;
+	border-radius: 10px;
+	color: white;
+	padding: 10px 20px;
+	float: left;
+	margin: 20px;
+	width: 48%;
+	cursor: pointer;
+}
+
+p:hover {
+	background-color: turquoise;
+}
+
+.footer {
+	float: right;
+	padding: 20px;
+}
