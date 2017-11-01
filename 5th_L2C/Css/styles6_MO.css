@@ -3,6 +3,11 @@ body {
 	height: 100%;
 }
 
+.mainone {
+	margin: 50px 250px 75px 250px;
+	border: 15px solid pink;
+}
+
 h1 {
 	font-size: 30px;
 	text-align: center;
@@ -45,6 +50,16 @@ nav ul li a {
 	margin: 20px;
 	width: 48%;
 	cursor: pointer;
+}
+
+img {
+	border-radius: 20%;
+	transition: .5ease;
+	max-width: 400px;
+	max-height: 400px;
+	padding: 25px;
+	margin: 50px;
+	text-align: center;
 }
 
 p:hover {
