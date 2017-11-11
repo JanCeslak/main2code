@@ -32,3 +32,19 @@ margin : 0 auto = znamena zarovnanie, ale pri scroolovani to optimalizuje (0 je 
 margin VS padding
 oznac co chces hromadne zmenit, CTRL D a kazdym dalsim klikom oznacis rovanku hodnotu
 opacity - priehladnost
+
+--
+6th - Yablko
+
+CSS Flexbox / Display: flex
+rozmysla v dvoch osiach - Vertical a Horizontal
+align-items: center (na stred vsetky articles)
+justify-content: right + flex-direction: row (zarovna napravo v horizontale)
+justify-content: start + flex-direction: column (zarovna podla vertikaly hore)
+justify-content: end + flex-direction: column (zarovna podla vertikaly dole)
+justify-content: space-between + flex-direction:... (roztiahne vertikalne alebo horizontalne a urobi medzery
+align-items: baseline (bez ohladu na velkost fontu zarovna podla flex-direction - teda orientacie
+flex-direction: row/column-reverse (vymeni poradie buniek)
+align-content: flex-center(sluzi na zarovnanie pri viacerych mensich bunkach a jednej vacsej pekne poporiadku)
+flex-wrap: wrap (sluzi na zalomenie textu - podobne ako v exceli)
+flex-basis: 300px (definujem fixnu sirku)

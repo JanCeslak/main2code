@@ -1,0 +1,43 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+color: black;
+font: 20px Rockwell;
+font-weight: bold;
+background: grey;
+padding: 1em;
+display: flex;
+align-items: center;
+align-content: flex-start;
+justify-content: flex-start;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+article {
+	padding: 1.2em;
+	background: blue;
+	border-radius: .5em;
+	margin: 5px;
+}
+
+article:nth-child(1) {
+	background: red;
+	flex-grow: 1;
+}
+article:nth-child(2) {
+	background: turquoise;
+	flex-grow: 2;}
+article:nth-child(3) {
+	background: yellow;
+	flex-grow: 3;
+}
+article:nth-child(4) {
+	background: green;
+}
+article:nth-child(5) {
+	background: brown;
+}
