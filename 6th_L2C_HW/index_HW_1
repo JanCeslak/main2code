@@ -62,6 +62,29 @@
 			toto je nadpis
 		</h1>
 	</header>
+	<section class="clearfix">
+		<nav class="float-left menu">
+			<ul class="list">
+				<li class="list-li">
+					prvy text
+				</li>
+				<li class="list-li">
+					druhy text
+				</li>
+				<li class="list-li">
+					treti text
+				</li>
+				<li class="list-li">
+					stvrty text
+				</li>
+			</ul>
+		</nav>
+	</section>
+	<footer class="footer">
+		<p>
+			toto je pata stranky
+		</p>
+	</footer>
 </div>
 </body>
 </html>

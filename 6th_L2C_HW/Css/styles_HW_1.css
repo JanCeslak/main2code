@@ -18,3 +18,30 @@
   float: left;
   margin: 15px 15px 15px 0;
 }
+
+.header, footer {
+  background-color: yellow;
+  color: black;
+  padding: 15px;  border-radius: 10px;
+}
+
+.float-left {
+  float: left;
+  padding: 15px;
+}
+
+.menu {
+  width: 25%;
+}
+
+.content {
+  width: 75%; 
+}
+
+.list-li {
+  background-color: grey;
+  color: white;
+  padding: 8px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+}
