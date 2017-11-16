@@ -36,7 +36,7 @@
 
 .grad1 {
   height: 100px;
-  background: linear-gradient(Blue 3D # 16, pink)
+  background: linear-gradient(red, yellow);
 }
 
 .box-shaddow {
@@ -45,9 +45,9 @@
 }
 
 .box-shaddow-first {
-  box-shaddow: 10px 10px 5px 0px red;
+  box-shadow: 10px 10px 5px 0px black;
 }
 
 .box-shaddow-second {
-  box-shaddow: inset 10px 10px 5px 0px green;
+  box-shadow: inset 10px 10px 5px 0px blue;
 }

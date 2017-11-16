@@ -48,3 +48,27 @@ flex-direction: row/column-reverse (vymeni poradie buniek)
 align-content: flex-center(sluzi na zarovnanie pri viacerych mensich bunkach a jednej vacsej pekne poporiadku)
 flex-wrap: wrap (sluzi na zalomenie textu - podobne ako v exceli)
 flex-basis: 300px (definujem fixnu sirku)
+
+--
+7th - Text transform
+lowercase makes all of the letters in the selected text lowercase.
+uppercase makes all of the letters in the selected text uppercase.
+capitalize capitalizes the first letter of each word in the selected text.
+none leaves the text's case and capitalization exactly as it was entered.
+inherit gives the text the case and capitalization of its parent.
+
+Text shaddow
+1. value = The X-coordinate
+2. value = The Y-coordinate
+3. value = The blur radius
+4. value = The color of the shadow
+
+--
+8th
+
+z-index: 1; urcuje polohu objektu (stvorceka) medzi ostatnymi (nieco ako move front / back v powerpointe)
+position: absolute (vsetky obrazky, objekty,...whatever zacinaju vlavo hore) - pouziva sa hlavne pri ikonach
+position: relative (vsetky obrazky, objekty,...whatever su pod sebou,...nasleduju jeden druhy)
+position: fixed (hlavne pri pop-up oknach, alebo pri menu, kde cele menu zostava pri scroolovani hore)
+
+
